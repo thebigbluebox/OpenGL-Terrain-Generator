@@ -1,6 +1,14 @@
 OpenGL-Terrain-Generator
 ========================
-A opengl terrain generator that implements the fault algorithm.
+A opengl terrain generator that implements the fault algorithm. The program allows the simulation of terrain continously through the use of the fault algorithm. The program features an outline and fully filled view.
+
+
+![Screen Shot of the outline view](/Terrain1.png "Terrain Generator")
+
+
+![Screen Shot of the fully colored and textured view](/Terrain2.png "Terrain Generator")
+
+
 Controls
 --------
 + q    | Exit
